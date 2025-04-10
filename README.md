@@ -63,8 +63,8 @@ If you liked this project, do give it a ⭐ on GitHub.
 
 Connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [GitHub](https://github.com/your-profile/)
+- [LinkedIn](https://www.linkedin.com/in/manish-sharma-55013a222/)
+- [GitHub](https://github.com/manishsarmaa)
 
 ---
 
