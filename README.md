@@ -50,7 +50,7 @@ This Power BI Dashboard provides insights into the Indian Startup Ecosystem — 
 
 ## 📷 Dashboard Preview
 
-> ![Dashboard Screenshot](./Screenshot.png)
+> ![Dashboard Screenshot](./Output.png)
 
 ---
 
