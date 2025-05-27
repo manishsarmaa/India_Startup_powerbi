@@ -51,7 +51,7 @@ This Power BI Dashboard provides insights into the Indian Startup Ecosystem — 
 ## 📷 Dashboard Preview
 
 ### You can try it with the following link:
-**[Dashboard Live](Startup.pbix)** 
+**[Dashboard Live](https://app.powerbi.com/view?r=eyJrIjoiYmI2YmViY2QtYjAzZC00MDFlLWExM2YtOTQ1YThmMzFkNDY1IiwidCI6IjQ4M2UzNzk4LWMyMGItNDliMS04YTU5LTQzY2M4YjE2ODkzMCJ9)** 
 
 ![Dashboard Preview](Output.png) 
 
